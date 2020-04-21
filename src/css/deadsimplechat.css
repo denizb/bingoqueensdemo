@@ -1,0 +1,17 @@
+
+.modal .animation-content{
+     max-width: calc(100vw - 40px)!important;
+} 
+ .modal .animation-content .modal-card {
+    width: 100% !important;
+    height: 100vh;
+    max-height: calc(100vh - 40px);
+}
+
+.modal-content,
+.modal-card {
+    max-height: 100vh;
+}
+.modal .animation-content .modal-card{
+    height:100vh;
+}
